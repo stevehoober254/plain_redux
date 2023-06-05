@@ -17,6 +17,9 @@ This is my short notes on getting started with REDUX without any javascript fram
 ## IMPLEMENTATION
 
 ```javascript
+
+const redux = require('redux');
+
 // Actions
 
 const BUY_CAKE = "Buy a cake";
